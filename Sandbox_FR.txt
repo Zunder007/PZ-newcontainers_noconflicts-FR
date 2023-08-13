@@ -1,0 +1,180 @@
+Sandbox_FR = {
+    Sandbox_newcontainersnc = "New Containers",
+
+    Sandbox_newcontainersnc_ammocan30 = "Caisse de munitions calibre .30",
+    Sandbox_newcontainersnc_ammocan30_tooltip = "Multiplicateur d'apparition pour: Caisse de munitions calibre .30",
+
+    Sandbox_newcontainersnc_ammocan50 = "Caisse de munitions calibre .50",
+    Sandbox_newcontainersnc_ammocan50_tooltip = "Multiplicateur d'apparition pour: Caisse de munitions calibre .50",
+	
+    Sandbox_newcontainersnc_basket = "Panier",
+    Sandbox_newcontainersnc_basket_tooltip = "Multiplicateur d'apparition pour: Panier",
+	
+    Sandbox_newcontainersnc_beveragejug = "Pichets",
+    Sandbox_newcontainersnc_beveragejug_tooltip = "Multiplicateur d'apparition pour: Pichets",
+	
+    Sandbox_newcontainersnc_breadbox = "Boîte à pain",
+    Sandbox_newcontainersnc_breadbox_tooltip = "Multiplicateur d'apparition pour: Boîte à pain",
+	
+    Sandbox_newcontainersnc_canteen = "Flasque",
+    Sandbox_newcontainersnc_canteen_tooltip = "Multiplicateur d'apparition pour: Flasque",
+	
+    Sandbox_newcontainersnc_canteenmilitary = "Flasque militaire",
+    Sandbox_newcontainersnc_canteenmilitary_tooltip = "Multiplicateur d'apparition pour: Flasque militaire",
+	
+    Sandbox_newcontainersnc_canvastote = "Bac en toile",
+    Sandbox_newcontainersnc_canvastote_tooltip = "Multiplicateur d'apparition pour: Bac en toile",
+	
+    Sandbox_newcontainersnc_cardboard_large = "Boîte en carton, Grande",
+    Sandbox_newcontainersnc_cardboard_large_tooltip = "Multiplicateur d'apparition pour: Boîte en carton, Grande",
+	
+    Sandbox_newcontainersnc_cardboard_medium = "Boîte en carton, Moyenne",
+    Sandbox_newcontainersnc_cardboard_medium_tooltip = "Multiplicateur d'apparition pour: Boîte en carton, Moyenne",
+	
+    Sandbox_newcontainersnc_cardboard_small = "Boîte en carton, Petite",
+    Sandbox_newcontainersnc_cardboard_small_tooltip = "Multiplicateur d'apparition pour: Boîte en carton, Petite",
+	
+    Sandbox_newcontainersnc_cdbinder = "Classeur à CD",
+    Sandbox_newcontainersnc_cdbinder_tooltip = "Multiplicateur d'apparition pour: Classeur à CD",
+	
+    Sandbox_newcontainersnc_cdcase = "Boîtier à CD",
+    Sandbox_newcontainersnc_cdcase_tooltip = "Multiplicateur d'apparition pour: Boîtier à CD",
+	
+    Sandbox_newcontainersnc_coffeecan = "Boîte à café",
+    Sandbox_newcontainersnc_coffeecan_tooltip = "Multiplicateur d'apparition pour: Boîte à café",
+	
+    Sandbox_newcontainersnc_componentkit = "Trousse de composants",
+    Sandbox_newcontainersnc_componentkit_tooltip = "Multiplicateur d'apparition pour: Trousse de composants",
+	
+    Sandbox_newcontainersnc_cookiejar = "Pot à biscuits",
+    Sandbox_newcontainersnc_cookiejar_tooltip = "Multiplicateur d'apparition pour: Pot à biscuits",
+	
+    Sandbox_newcontainersnc_cutleryroll = "Rouleau à couverts",
+    Sandbox_newcontainersnc_cutleryroll_tooltip = "Multiplicateur d'apparition pour: Rouleau à couverts",
+	
+    Sandbox_newcontainersnc_dishtub = "Bac à vaisselle",
+    Sandbox_newcontainersnc_dishtub_tooltip = "Multiplicateur d'apparition pour: Bac à vaisselle",
+	
+    Sandbox_newcontainersnc_donutbox = "Boîte à pâtisserie",
+    Sandbox_newcontainersnc_donutbox_tooltip = "Multiplicateur d'apparition pour: Boîte à pâtisserie",
+	
+    Sandbox_newcontainersnc_fakerock = "Faux rocher",
+    Sandbox_newcontainersnc_fakerock_tooltip = "Multiplicateur d'apparition pour: Faux rocher",
+	
+    Sandbox_newcontainersnc_filefolder = "Chemise à documents",
+    Sandbox_newcontainersnc_filefolder_tooltip = "Multiplicateur d'apparition pour: Chemise à documents",
+	
+    Sandbox_newcontainersnc_fishingcreel = "Casier à pêche",
+    Sandbox_newcontainersnc_fishingcreel_tooltip = "Multiplicateur d'apparition pour: Casier à pêche",
+	
+    Sandbox_newcontainersnc_flask = "Fiole",
+    Sandbox_newcontainersnc_flask_tooltip = "Multiplicateur d'apparition pour: Fiole",
+	
+    Sandbox_newcontainersnc_basket_forage = "Panier de Recherche",
+    Sandbox_newcontainersnc_basket_forage_tooltip = "Multiplicateur d'apparition pour: Panier de Recherche",
+	
+    Sandbox_newcontainersnc_foragepouch = "Poche de Recherche",
+    Sandbox_newcontainersnc_foragepouch_tooltip = "Multiplicateur d'apparition pour: Poche de Recherche",
+	
+    Sandbox_newcontainersnc_halfgaljug = "Pichet d'un demi-gallon",
+    Sandbox_newcontainersnc_halfgaljug_tooltip = "Multiplicateur d'apparition pour: Pichet d'un demi-gallon",
+	
+    Sandbox_newcontainersnc_hardwareorganizer = "Organisateur de matériel",
+    Sandbox_newcontainersnc_hardwareorganizer_tooltip = "Multiplicateur d'apparition pour: Organisateur de matériel",
+	
+    Sandbox_newcontainersnc_jewelrybox = "Boîte à bijoux",
+    Sandbox_newcontainersnc_jewelrybox_tooltip = "Multiplicateur d'apparition pour: Boîte à bijoux",
+	
+    Sandbox_newcontainersnc_kindlingbox = "Boîte à bois d'allumage",
+    Sandbox_newcontainersnc_kindlingbox_tooltip = "Multiplicateur d'apparition pour: Boîte à bois d'allumage",
+	
+    Sandbox_newcontainersnc_kidsflask = "Flasque pour enfants",
+    Sandbox_newcontainersnc_kidsflask_tooltip = "Multiplicateur d'apparition pour: Flasque pour enfants",
+	
+    Sandbox_newcontainersnc_lockbox = "Boîte à cadenas",
+    Sandbox_newcontainersnc_lockbox_tooltip = "Multiplicateur d'apparition pour: Boîte à cadenas",
+	
+    Sandbox_newcontainersnc_milkcrate = "Caisse de lait",
+    Sandbox_newcontainersnc_milkcrate_tooltip = "Multiplicateur d'apparition pour: Caisse de lait",
+	
+    Sandbox_newcontainersnc_milkcratelong = "Caisse de lait, Grande",
+    Sandbox_newcontainersnc_milkcratelong_tooltip = "Multiplicateur d'apparition pour: Caisse de lait, Grande",
+	
+    Sandbox_newcontainersnc_petcarrier = "Porte-animaux de compagnie",
+    Sandbox_newcontainersnc_petcarrier_tooltip = "Multiplicateur d'apparition pour: Porte-animaux de compagnie",
+	
+    Sandbox_newcontainersnc_piggybank = "Tirelire",
+    Sandbox_newcontainersnc_piggybank_tooltip = "Multiplicateur d'apparition pour: Tirelire",
+	
+    Sandbox_newcontainersnc_pitcherempty_01 = "Broc, Verre",
+    Sandbox_newcontainersnc_pitcherempty_01_tooltip = "Multiplicateur d'apparition pour: Broc, Verre",
+	
+    Sandbox_newcontainersnc_pitcherempty_02 = "Broc, Plastique",
+    Sandbox_newcontainersnc_pitcherempty_02_tooltip = "Multiplicateur d'apparition pour: Broc, Plastique",
+	
+    Sandbox_newcontainersnc_pizzabox = "Boîte à pizza",
+    Sandbox_newcontainersnc_pizzabox_tooltip = "Multiplicateur d'apparition pour: Boîte à pizza",
+	
+    Sandbox_newcontainersnc_plastictote_large = "Bac en plastique, Grand",
+    Sandbox_newcontainersnc_plastictote_large_tooltip = "Multiplicateur d'apparition pour: Bac en plastique, Grand",
+	
+    Sandbox_newcontainersnc_plastictote_medium = "Bac en plastique, Moyen",
+    Sandbox_newcontainersnc_plastictote_medium_tooltip = "Multiplicateur d'apparition pour: Bac en plastique, Moyen",
+	
+    Sandbox_newcontainersnc_plastictote_small = "Bac en plastique, Petit",
+    Sandbox_newcontainersnc_plastictote_small_tooltip = "Multiplicateur d'apparition pour: Bac en plastique, Petit",
+	
+    Sandbox_newcontainersnc_plasticware = "Objet en plastique",
+    Sandbox_newcontainersnc_plasticware_tooltip = "Multiplicateur d'apparition pour: Objet en plastique",
+	
+    Sandbox_newcontainersnc_plasticware_small = "Objet en plastique, Petit",
+    Sandbox_newcontainersnc_plasticware_small_tooltip = "Multiplicateur d'apparition pour: Objet en plastique, Petit",
+	
+    Sandbox_newcontainersnc_plasticware_tall = "Objet en plastique, Large",
+    Sandbox_newcontainersnc_plasticware_tall_tooltip = "Multiplicateur d'apparition pour: Objet en plastique, Large",
+	
+    Sandbox_newcontainersnc_roadsidekit = "Trousse d'assistance routière",
+    Sandbox_newcontainersnc_roadsidekit_tooltip = "Multiplicateur d'apparition pour: Trousse d'assistance routière",
+	
+    Sandbox_newcontainersnc_roughbox = "Boîte grossière",
+    Sandbox_newcontainersnc_roughbox_tooltip = "Multiplicateur d'apparition pour: Boîte grossière",
+	
+    Sandbox_newcontainersnc_sandwichbagbox = "Boîte de sacs à sandwich",
+    Sandbox_newcontainersnc_sandwichbagbox_tooltip = "Multiplicateur d'apparition pour: Boîte de sacs à sandwich",
+	
+    Sandbox_newcontainersnc_sandwichbag = "Sac à sandwich",
+    Sandbox_newcontainersnc_sandwichbag_tooltip = "Multiplicateur d'apparition pour: Sac à sandwich",
+	
+    Sandbox_newcontainersnc_shoebox = "Boîte à chaussures",
+    Sandbox_newcontainersnc_shoebox_tooltip = "Multiplicateur d'apparition pour: Boîte à chaussures",
+	
+    Sandbox_newcontainersnc_shoppingbasket = "Panier de course",
+    Sandbox_newcontainersnc_shoppingbasket_tooltip = "Multiplicateur d'apparition pour: Panier de course",
+	
+    Sandbox_newcontainersnc_spicerack = "Étagère à épices",
+    Sandbox_newcontainersnc_spicerack_tooltip = "Multiplicateur d'apparition pour: Étagère à épices",
+	
+    Sandbox_newcontainersnc_spiffokeeper = "Conservateur Spiffo",
+    Sandbox_newcontainersnc_spiffokeeper_tooltip = "Multiplicateur d'apparition pour: Conservateur Spiffo",
+	
+    Sandbox_newcontainersnc_tacklebox = "Boîte de matériel",
+    Sandbox_newcontainersnc_tacklebox_tooltip = "Multiplicateur d'apparition pour: Boîte de matériel",
+	
+    Sandbox_newcontainersnc_tackleboxlarge = "Boîte de matériel, Grande",
+    Sandbox_newcontainersnc_tackleboxlarge_tooltip = "Multiplicateur d'apparition pour: Boîte de matériel, Grande",
+	
+    Sandbox_newcontainersnc_tissuebox = "Boîte de mouchoirs",
+    Sandbox_newcontainersnc_tissuebox_tooltip = "Multiplicateur d'apparition pour: Boîte de mouchoirs",
+	
+    Sandbox_newcontainersnc_travelkit = "Trousse de voyage",
+    Sandbox_newcontainersnc_travelkit_tooltip = "Multiplicateur d'apparition pour: Trousse de voyage",
+	
+    Sandbox_newcontainersnc_trunkorganizer = "Organisateur de coffre",
+    Sandbox_newcontainersnc_trunkorganizer_tooltip = "Multiplicateur d'apparition pour: Organisateur de coffre",
+	
+    Sandbox_newcontainersnc_jugempty = "Cruche portative",
+    Sandbox_newcontainersnc_jugempty_tooltip = "Multiplicateur d'apparition pour: Cruche portative",
+	
+    Sandbox_newcontainersnc_woodcarrier = "Porte-bois",
+    Sandbox_newcontainersnc_woodcarrier_tooltip = "Multiplicateur d'apparition pour: Porte-bois",
+}
