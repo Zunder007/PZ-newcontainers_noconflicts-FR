@@ -1,0 +1,5 @@
+UI_FR = {
+
+UI_ClothingType_SpecialBelt = "Ceinture à outils",
+
+}
