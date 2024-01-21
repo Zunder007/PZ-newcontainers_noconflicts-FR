@@ -21,4 +21,6 @@ Recipes_FR = {
     Recipe_Close_Flask = "Fermer la Flasque",
     Recipe_Make_Flask_of_Coffee = "Préparer une Flasque de café",
     Recipe_Make_Flask_of_Tea = "Préparer une Flasque de thé",
+
+	Recipe_Make_Coffin = "Fabriquer un Cercueil",
 }
